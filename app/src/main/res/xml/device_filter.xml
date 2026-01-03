@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Intel RealSense D435 USB device filter -->
+    <!-- Vendor ID for Intel: 0x8086 -->
+    <usb-device vendor-id="32902" />
+</resources>
